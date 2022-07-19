@@ -20,6 +20,8 @@ model = model.to(device)
 preprocess = weights.transforms()
 
 cap = cv2.VideoCapture(0)
+cap.set(cv2.CAP_PROP_FRAME_WIDTH, 3600)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 3600)
 
 # Check if the webcam is opened correctly
 if not cap.isOpened():
