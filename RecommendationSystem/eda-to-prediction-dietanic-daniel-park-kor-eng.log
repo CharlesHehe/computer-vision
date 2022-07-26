@@ -1,0 +1,870 @@
+[{"stream_name":"stderr","time":11.475219855,"data":"/opt/conda/lib/python3.7/site-packages/papermill/iorw.py:50: FutureWarning: pyarrow.HadoopFileSystem is deprecated as of 2.0.0, please use pyarrow.fs.HadoopFileSystem instead.\n"}
+,{"stream_name":"stderr","time":11.475505833,"data":"  from pyarrow import HadoopFileSystem\n"}
+,{"stream_name":"stdout","time":20.083943929,"data":"0.7420382165605095\n"}
+,{"stream_name":"stdout","time":20.083987844,"data":"0.18890814558058924\n"}
+,{"stream_name":"stdout","time":33.182361989,"data":"False\n"}
+,{"stream_name":"stdout","time":33.18241428,"data":"0\n"}
+,{"stream_name":"stdout","time":50.374123399,"data":"0.0 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.37418972,"data":"0.01 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.374197832,"data":"0.02 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.374203814,"data":"0.03 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.374209169,"data":"0.04 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.374214428,"data":"0.05 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.374220218,"data":"0.06 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.374226094,"data":"0.07 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.37423232,"data":"0.08 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.374238143,"data":"0.09 Accuracy of SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":50.374244125,"data":"0.1 Accuracy of SVM is 39.11%\n"}
+,{"stream_name":"stdout","time":50.374249663,"data":"0.11 Accuracy of SVM is 39.11%\n"}
+,{"stream_name":"stdout","time":50.37425498,"data":"0.12 Accuracy of SVM is 39.66%\n"}
+,{"stream_name":"stdout","time":50.37426053,"data":"0.13 Accuracy of SVM is 40.22%\n"}
+,{"stream_name":"stdout","time":50.374265951,"data":"0.14 Accuracy of SVM is 40.22%\n"}
+,{"stream_name":"stdout","time":50.374270985,"data":"0.15 Accuracy of SVM is 47.49%\n"}
+,{"stream_name":"stdout","time":50.374276387,"data":"0.16 Accuracy of SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":50.374281483,"data":"0.17 Accuracy of SVM is 80.45%\n"}
+,{"stream_name":"stdout","time":50.374287026,"data":"0.18 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.374292616,"data":"0.19 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.374297674,"data":"0.2 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.374303069,"data":"0.21 Accuracy of SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":50.374308941,"data":"0.22 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.37431466,"data":"0.23 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374320775,"data":"0.24 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374326755,"data":"0.25 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374332842,"data":"0.26 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374338855,"data":"0.27 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374344923,"data":"0.28 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374350805,"data":"0.29 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374374661,"data":"0.3 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374380746,"data":"0.31 Accuracy of SVM is 83.24%\n"}
+,{"stream_name":"stdout","time":50.374386949,"data":"0.32 Accuracy of SVM is 83.24%\n"}
+,{"stream_name":"stdout","time":50.374393147,"data":"0.33 Accuracy of SVM is 83.24%\n"}
+,{"stream_name":"stdout","time":50.374431184,"data":"0.34 Accuracy of SVM is 83.24%\n"}
+,{"stream_name":"stdout","time":50.374437661,"data":"0.35000000000000003 Accuracy of SVM is 83.24%\n"}
+,{"stream_name":"stdout","time":50.374443353,"data":"0.36 Accuracy of SVM is 83.24%\n"}
+,{"stream_name":"stdout","time":50.374460789,"data":"0.37 Accuracy of SVM is 83.24%\n"}
+,{"stream_name":"stdout","time":50.374465929,"data":"0.38 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374470808,"data":"0.39 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374476089,"data":"0.4 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374480917,"data":"0.41000000000000003 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374486242,"data":"0.42 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374491565,"data":"0.43 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.374496843,"data":"0.44 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.37450199,"data":"0.45 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374507217,"data":"0.46 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374512464,"data":"0.47000000000000003 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374517815,"data":"0.48 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374523378,"data":"0.49 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374528609,"data":"0.5 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.37453364,"data":"0.51 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374538783,"data":"0.52 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.374544009,"data":"0.53 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.53873367,"data":"0.54 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538813251,"data":"0.55 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538840175,"data":"0.56 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538850284,"data":"0.5700000000000001 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538857099,"data":"0.58 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538862003,"data":"0.59 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538866795,"data":"0.6 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538875191,"data":"0.61 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538900099,"data":"0.62 Accuracy of SVM is 82.12%\n"}
+,{"stream_name":"stdout","time":50.538905306,"data":"0.63 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.538909793,"data":"0.64 Accuracy of SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":50.538914483,"data":"0.65 Accuracy of SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":50.538919088,"data":"0.66 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.538923906,"data":"0.67 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.538928313,"data":"0.68 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.53893277,"data":"0.6900000000000001 Accuracy of SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":50.538936059,"data":"0.7000000000000001 Accuracy of SVM is 80.45%\n"}
+,{"stream_name":"stdout","time":50.53893926,"data":"0.71 Accuracy of SVM is 80.45%\n"}
+,{"stream_name":"stdout","time":50.538942298,"data":"0.72 Accuracy of SVM is 80.45%\n"}
+,{"stream_name":"stdout","time":50.538945392,"data":"0.73 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.53896321,"data":"0.74 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.538966384,"data":"0.75 Accuracy of SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":50.538969341,"data":"0.76 Accuracy of SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":50.538972462,"data":"0.77 Accuracy of SVM is 80.45%\n"}
+,{"stream_name":"stdout","time":50.538975795,"data":"0.78 Accuracy of SVM is 80.45%\n"}
+,{"stream_name":"stdout","time":50.538980392,"data":"0.79 Accuracy of SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":50.538984855,"data":"0.8 Accuracy of SVM is 80.45%\n"}
+,{"stream_name":"stdout","time":50.538989471,"data":"0.81 Accuracy of SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":50.538994102,"data":"0.8200000000000001 Accuracy of SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":50.538998812,"data":"0.8300000000000001 Accuracy of SVM is 78.77%\n"}
+,{"stream_name":"stdout","time":50.539003687,"data":"0.84 Accuracy of SVM is 73.18%\n"}
+,{"stream_name":"stdout","time":50.539008477,"data":"0.85 Accuracy of SVM is 72.07%\n"}
+,{"stream_name":"stdout","time":50.539013579,"data":"0.86 Accuracy of SVM is 71.51%\n"}
+,{"stream_name":"stdout","time":50.539018075,"data":"0.87 Accuracy of SVM is 67.04%\n"}
+,{"stream_name":"stdout","time":50.539022632,"data":"0.88 Accuracy of SVM is 64.80%\n"}
+,{"stream_name":"stdout","time":50.539027381,"data":"0.89 Accuracy of SVM is 62.57%\n"}
+,{"stream_name":"stdout","time":50.539032029,"data":"0.9 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539036549,"data":"0.91 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539041224,"data":"0.92 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539045438,"data":"0.93 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539048737,"data":"0.9400000000000001 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539051964,"data":"0.9500000000000001 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539054957,"data":"0.96 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539057939,"data":"0.97 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539061242,"data":"0.98 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":50.539064317,"data":"0.99 Accuracy of SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":51.531209881,"data":"83.24022346368714\n"}
+,{"stream_name":"stdout","time":51.531252881,"data":"31\n"}
+,{"stream_name":"stdout","time":52.918928085,"data":"0.0 Accuracy of Linear-SVM is 38.55%\n"}
+,{"stream_name":"stdout","time":52.919024865,"data":"0.01 Accuracy of Linear-SVM is 39.11%\n"}
+,{"stream_name":"stdout","time":52.919044053,"data":"0.02 Accuracy of Linear-SVM is 39.11%\n"}
+,{"stream_name":"stdout","time":52.91905,"data":"0.03 Accuracy of Linear-SVM is 39.66%\n"}
+,{"stream_name":"stdout","time":52.919055189,"data":"0.04 Accuracy of Linear-SVM is 39.66%\n"}
+,{"stream_name":"stdout","time":52.919059425,"data":"0.05 Accuracy of Linear-SVM is 39.66%\n"}
+,{"stream_name":"stdout","time":52.919063829,"data":"0.06 Accuracy of Linear-SVM is 40.22%\n"}
+,{"stream_name":"stdout","time":52.919068564,"data":"0.07 Accuracy of Linear-SVM is 40.22%\n"}
+,{"stream_name":"stdout","time":52.919073417999996,"data":"0.08 Accuracy of Linear-SVM is 41.34%\n"}
+,{"stream_name":"stdout","time":52.919077981,"data":"0.09 Accuracy of Linear-SVM is 41.90%\n"}
+,{"stream_name":"stdout","time":52.919082658,"data":"0.1 Accuracy of Linear-SVM is 41.90%\n"}
+,{"stream_name":"stdout","time":52.919087606,"data":"0.11 Accuracy of Linear-SVM is 43.02%\n"}
+,{"stream_name":"stdout","time":52.919107776,"data":"0.12 Accuracy of Linear-SVM is 48.60%\n"}
+,{"stream_name":"stdout","time":52.919112816,"data":"0.13 Accuracy of Linear-SVM is 48.60%\n"}
+,{"stream_name":"stdout","time":52.919116872000004,"data":"0.14 Accuracy of Linear-SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":52.919121097,"data":"0.15 Accuracy of Linear-SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":52.919125217,"data":"0.16 Accuracy of Linear-SVM is 69.83%\n"}
+,{"stream_name":"stdout","time":52.919129342,"data":"0.17 Accuracy of Linear-SVM is 69.83%\n"}
+,{"stream_name":"stdout","time":52.919133771,"data":"0.18 Accuracy of Linear-SVM is 71.51%\n"}
+,{"stream_name":"stdout","time":52.919137929,"data":"0.19 Accuracy of Linear-SVM is 75.42%\n"}
+,{"stream_name":"stdout","time":52.919142219,"data":"0.2 Accuracy of Linear-SVM is 75.42%\n"}
+,{"stream_name":"stdout","time":52.919149689,"data":"0.21 Accuracy of Linear-SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":52.919154311,"data":"0.22 Accuracy of Linear-SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":52.919159029,"data":"0.23 Accuracy of Linear-SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":52.919163827,"data":"0.24 Accuracy of Linear-SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":52.919168681,"data":"0.25 Accuracy of Linear-SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":52.919173694,"data":"0.26 Accuracy of Linear-SVM is 82.68%\n"}
+,{"stream_name":"stdout","time":52.919178599,"data":"0.27 Accuracy of Linear-SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":52.919183483,"data":"0.28 Accuracy of Linear-SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":52.919188203,"data":"0.29 Accuracy of Linear-SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":52.919193483,"data":"0.3 Accuracy of Linear-SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":52.919198455,"data":"0.31 Accuracy of Linear-SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":52.919203446,"data":"0.32 Accuracy of Linear-SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":52.919208375,"data":"0.33 Accuracy of Linear-SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":52.919213311,"data":"0.34 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919218281,"data":"0.35000000000000003 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919223297,"data":"0.36 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919228241,"data":"0.37 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919233146,"data":"0.38 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919238126,"data":"0.39 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919243072,"data":"0.4 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919248145,"data":"0.41000000000000003 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919253245,"data":"0.42 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919258103,"data":"0.43 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919263144,"data":"0.44 Accuracy of Linear-SVM is 81.56%\n"}
+,{"stream_name":"stdout","time":52.919268047,"data":"0.45 Accuracy of Linear-SVM is 81.01%\n"}
+,{"stream_name":"stdout","time":52.919273008,"data":"0.46 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919277933000004,"data":"0.47000000000000003 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919282921,"data":"0.48 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919293363,"data":"0.49 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919298495,"data":"0.5 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919303391,"data":"0.51 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919309873,"data":"0.52 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919314876,"data":"0.53 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919320003,"data":"0.54 Accuracy of Linear-SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":52.919324785,"data":"0.55 Accuracy of Linear-SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":52.919329579,"data":"0.56 Accuracy of Linear-SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":52.919334252,"data":"0.5700000000000001 Accuracy of Linear-SVM is 79.89%\n"}
+,{"stream_name":"stdout","time":52.919339179,"data":"0.58 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919344061,"data":"0.59 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919348931,"data":"0.6 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.91935383,"data":"0.61 Accuracy of Linear-SVM is 79.33%\n"}
+,{"stream_name":"stdout","time":52.919358711,"data":"0.62 Accuracy of Linear-SVM is 77.65%\n"}
+,{"stream_name":"stdout","time":52.919363549,"data":"0.63 Accuracy of Linear-SVM is 77.65%\n"}
+,{"stream_name":"stdout","time":52.919368398,"data":"0.64 Accuracy of Linear-SVM is 77.65%\n"}
+,{"stream_name":"stdout","time":52.919373289,"data":"0.65 Accuracy of Linear-SVM is 77.65%\n"}
+,{"stream_name":"stdout","time":52.919378199,"data":"0.66 Accuracy of Linear-SVM is 77.09%\n"}
+,{"stream_name":"stdout","time":52.919383192,"data":"0.67 Accuracy of Linear-SVM is 77.09%\n"}
+,{"stream_name":"stdout","time":52.919388223,"data":"0.68 Accuracy of Linear-SVM is 77.09%\n"}
+,{"stream_name":"stdout","time":52.919393195,"data":"0.6900000000000001 Accuracy of Linear-SVM is 77.65%\n"}
+,{"stream_name":"stdout","time":52.91939813,"data":"0.7000000000000001 Accuracy of Linear-SVM is 77.65%\n"}
+,{"stream_name":"stdout","time":52.919403167,"data":"0.71 Accuracy of Linear-SVM is 77.65%\n"}
+,{"stream_name":"stdout","time":52.919408147,"data":"0.72 Accuracy of Linear-SVM is 77.65%\n"}
+,{"stream_name":"stdout","time":52.919413091,"data":"0.73 Accuracy of Linear-SVM is 74.30%\n"}
+,{"stream_name":"stdout","time":52.919417958,"data":"0.74 Accuracy of Linear-SVM is 74.30%\n"}
+,{"stream_name":"stdout","time":52.919429983,"data":"0.75 Accuracy of Linear-SVM is 74.30%\n"}
+,{"stream_name":"stdout","time":52.919435194,"data":"0.76 Accuracy of Linear-SVM is 73.74%\n"}
+,{"stream_name":"stdout","time":52.919440033,"data":"0.77 Accuracy of Linear-SVM is 73.74%\n"}
+,{"stream_name":"stdout","time":52.919444102,"data":"0.78 Accuracy of Linear-SVM is 73.74%\n"}
+,{"stream_name":"stdout","time":52.919448344,"data":"0.79 Accuracy of Linear-SVM is 69.27%\n"}
+,{"stream_name":"stdout","time":52.919453034,"data":"0.8 Accuracy of Linear-SVM is 69.27%\n"}
+,{"stream_name":"stdout","time":52.919457741,"data":"0.81 Accuracy of Linear-SVM is 68.72%\n"}
+,{"stream_name":"stdout","time":52.919462687,"data":"0.8200000000000001 Accuracy of Linear-SVM is 68.72%\n"}
+,{"stream_name":"stdout","time":52.919467671,"data":"0.8300000000000001 Accuracy of Linear-SVM is 68.72%\n"}
+,{"stream_name":"stdout","time":52.919472719,"data":"0.84 Accuracy of Linear-SVM is 65.92%\n"}
+,{"stream_name":"stdout","time":52.919477615,"data":"0.85 Accuracy of Linear-SVM is 65.92%\n"}
+,{"stream_name":"stdout","time":52.919482729,"data":"0.86 Accuracy of Linear-SVM is 64.80%\n"}
+,{"stream_name":"stdout","time":52.919492321,"data":"0.87 Accuracy of Linear-SVM is 64.80%\n"}
+,{"stream_name":"stdout","time":52.919497429,"data":"0.88 Accuracy of Linear-SVM is 64.25%\n"}
+,{"stream_name":"stdout","time":52.943448736,"data":"0.89 Accuracy of Linear-SVM is 64.25%\n"}
+,{"stream_name":"stdout","time":52.943486624,"data":"0.9 Accuracy of Linear-SVM is 63.13%\n"}
+,{"stream_name":"stdout","time":52.943492587,"data":"0.91 Accuracy of Linear-SVM is 62.57%\n"}
+,{"stream_name":"stdout","time":52.943497377,"data":"0.92 Accuracy of Linear-SVM is 62.57%\n"}
+,{"stream_name":"stdout","time":52.943502332,"data":"0.93 Accuracy of Linear-SVM is 62.57%\n"}
+,{"stream_name":"stdout","time":52.943506184,"data":"0.9400000000000001 Accuracy of Linear-SVM is 62.01%\n"}
+,{"stream_name":"stdout","time":52.943509646,"data":"0.9500000000000001 Accuracy of Linear-SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":52.943513019,"data":"0.96 Accuracy of Linear-SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":52.943516357,"data":"0.97 Accuracy of Linear-SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":52.943519724,"data":"0.98 Accuracy of Linear-SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":52.943523248,"data":"0.99 Accuracy of Linear-SVM is 61.45%\n"}
+,{"stream_name":"stdout","time":53.913768611,"data":"82.68156424581005\n"}
+,{"stream_name":"stdout","time":53.913830183,"data":"24\n"}
+,{"stream_name":"stdout","time":55.170316108,"data":"0.0 Accuracy of LogisticRegression is 38.55%\n"}
+,{"stream_name":"stdout","time":55.170481671,"data":"0.01 Accuracy of LogisticRegression is 38.55%\n"}
+,{"stream_name":"stdout","time":55.170495565,"data":"0.02 Accuracy of LogisticRegression is 39.11%\n"}
+,{"stream_name":"stdout","time":55.170507967,"data":"0.03 Accuracy of LogisticRegression is 39.66%\n"}
+,{"stream_name":"stdout","time":55.170517638,"data":"0.04 Accuracy of LogisticRegression is 40.78%\n"}
+,{"stream_name":"stdout","time":55.170526202,"data":"0.05 Accuracy of LogisticRegression is 41.90%\n"}
+,{"stream_name":"stdout","time":55.170707154,"data":"0.06 Accuracy of LogisticRegression is 47.49%\n"}
+,{"stream_name":"stdout","time":55.170730971,"data":"0.07 Accuracy of LogisticRegression is 48.04%\n"}
+,{"stream_name":"stdout","time":55.170742908,"data":"0.08 Accuracy of LogisticRegression is 50.28%\n"}
+,{"stream_name":"stdout","time":55.170755203,"data":"0.09 Accuracy of LogisticRegression is 56.98%\n"}
+,{"stream_name":"stdout","time":55.170762428,"data":"0.1 Accuracy of LogisticRegression is 59.78%\n"}
+,{"stream_name":"stdout","time":55.170775819,"data":"0.11 Accuracy of LogisticRegression is 64.25%\n"}
+,{"stream_name":"stdout","time":55.170781755,"data":"0.12 Accuracy of LogisticRegression is 65.92%\n"}
+,{"stream_name":"stdout","time":55.170787335,"data":"0.13 Accuracy of LogisticRegression is 65.92%\n"}
+,{"stream_name":"stdout","time":55.170792828,"data":"0.14 Accuracy of LogisticRegression is 65.92%\n"}
+,{"stream_name":"stdout","time":55.170798501,"data":"0.15 Accuracy of LogisticRegression is 65.92%\n"}
+,{"stream_name":"stdout","time":55.170804433,"data":"0.16 Accuracy of LogisticRegression is 69.27%\n"}
+,{"stream_name":"stdout","time":55.170810339,"data":"0.17 Accuracy of LogisticRegression is 69.27%\n"}
+,{"stream_name":"stdout","time":55.170816351,"data":"0.18 Accuracy of LogisticRegression is 69.83%\n"}
+,{"stream_name":"stdout","time":55.170822245,"data":"0.19 Accuracy of LogisticRegression is 70.39%\n"}
+,{"stream_name":"stdout","time":55.17084961,"data":"0.2 Accuracy of LogisticRegression is 70.39%\n"}
+,{"stream_name":"stdout","time":55.170868654,"data":"0.21 Accuracy of LogisticRegression is 70.39%\n"}
+,{"stream_name":"stdout","time":55.170874421,"data":"0.22 Accuracy of LogisticRegression is 70.39%\n"}
+,{"stream_name":"stdout","time":55.170879265,"data":"0.23 Accuracy of LogisticRegression is 70.95%\n"}
+,{"stream_name":"stdout","time":55.170884308,"data":"0.24 Accuracy of LogisticRegression is 74.30%\n"}
+,{"stream_name":"stdout","time":55.170889395,"data":"0.25 Accuracy of LogisticRegression is 74.86%\n"}
+,{"stream_name":"stdout","time":55.170894557,"data":"0.26 Accuracy of LogisticRegression is 74.86%\n"}
+,{"stream_name":"stdout","time":55.17090599,"data":"0.27 Accuracy of LogisticRegression is 74.86%\n"}
+,{"stream_name":"stdout","time":55.170911154,"data":"0.28 Accuracy of LogisticRegression is 75.42%\n"}
+,{"stream_name":"stdout","time":55.170916059,"data":"0.29 Accuracy of LogisticRegression is 75.98%\n"}
+,{"stream_name":"stdout","time":55.170920822,"data":"0.3 Accuracy of LogisticRegression is 75.42%\n"}
+,{"stream_name":"stdout","time":55.170926351,"data":"0.31 Accuracy of LogisticRegression is 74.86%\n"}
+,{"stream_name":"stdout","time":55.170931825,"data":"0.32 Accuracy of LogisticRegression is 74.86%\n"}
+,{"stream_name":"stdout","time":55.170936992,"data":"0.33 Accuracy of LogisticRegression is 75.42%\n"}
+,{"stream_name":"stdout","time":55.170947511,"data":"0.34 Accuracy of LogisticRegression is 75.98%\n"}
+,{"stream_name":"stdout","time":55.170952635,"data":"0.35000000000000003 Accuracy of LogisticRegression is 76.54%\n"}
+,{"stream_name":"stdout","time":55.170958074,"data":"0.36 Accuracy of LogisticRegression is 77.65%\n"}
+,{"stream_name":"stdout","time":55.170963399,"data":"0.37 Accuracy of LogisticRegression is 77.65%\n"}
+,{"stream_name":"stdout","time":55.170968807,"data":"0.38 Accuracy of LogisticRegression is 78.21%\n"}
+,{"stream_name":"stdout","time":55.170974223,"data":"0.39 Accuracy of LogisticRegression is 79.33%\n"}
+,{"stream_name":"stdout","time":55.170979605,"data":"0.4 Accuracy of LogisticRegression is 79.33%\n"}
+,{"stream_name":"stdout","time":55.170985066,"data":"0.41000000000000003 Accuracy of LogisticRegression is 78.77%\n"}
+,{"stream_name":"stdout","time":55.170990331,"data":"0.42 Accuracy of LogisticRegression is 78.77%\n"}
+,{"stream_name":"stdout","time":55.170999963,"data":"0.43 Accuracy of LogisticRegression is 78.77%\n"}
+,{"stream_name":"stdout","time":55.171005416,"data":"0.44 Accuracy of LogisticRegression is 79.89%\n"}
+,{"stream_name":"stdout","time":55.171011017,"data":"0.45 Accuracy of LogisticRegression is 79.89%\n"}
+,{"stream_name":"stdout","time":55.171016157,"data":"0.46 Accuracy of LogisticRegression is 81.01%\n"}
+,{"stream_name":"stdout","time":55.171021511,"data":"0.47000000000000003 Accuracy of LogisticRegression is 82.12%\n"}
+,{"stream_name":"stdout","time":55.171026942,"data":"0.48 Accuracy of LogisticRegression is 82.12%\n"}
+,{"stream_name":"stdout","time":55.171032359,"data":"0.49 Accuracy of LogisticRegression is 82.12%\n"}
+,{"stream_name":"stdout","time":55.171037697,"data":"0.5 Accuracy of LogisticRegression is 81.01%\n"}
+,{"stream_name":"stdout","time":55.171043182,"data":"0.51 Accuracy of LogisticRegression is 81.56%\n"}
+,{"stream_name":"stdout","time":55.171048323,"data":"0.52 Accuracy of LogisticRegression is 81.01%\n"}
+,{"stream_name":"stdout","time":55.171053425,"data":"0.53 Accuracy of LogisticRegression is 81.01%\n"}
+,{"stream_name":"stdout","time":55.17105858,"data":"0.54 Accuracy of LogisticRegression is 81.01%\n"}
+,{"stream_name":"stdout","time":55.171063656,"data":"0.55 Accuracy of LogisticRegression is 82.12%\n"}
+,{"stream_name":"stdout","time":55.171076718,"data":"0.56 Accuracy of LogisticRegression is 82.12%\n"}
+,{"stream_name":"stdout","time":55.171094027,"data":"0.5700000000000001 Accuracy of LogisticRegression is 81.56%\n"}
+,{"stream_name":"stdout","time":55.171099282,"data":"0.58 Accuracy of LogisticRegression is 81.01%\n"}
+,{"stream_name":"stdout","time":55.171104409,"data":"0.59 Accuracy of LogisticRegression is 81.56%\n"}
+,{"stream_name":"stdout","time":55.171109441,"data":"0.6 Accuracy of LogisticRegression is 81.56%\n"}
+,{"stream_name":"stdout","time":55.171114924,"data":"0.61 Accuracy of LogisticRegression is 81.56%\n"}
+,{"stream_name":"stdout","time":55.171120065,"data":"0.62 Accuracy of LogisticRegression is 81.56%\n"}
+,{"stream_name":"stdout","time":55.171125493,"data":"0.63 Accuracy of LogisticRegression is 79.33%\n"}
+,{"stream_name":"stdout","time":55.1711308,"data":"0.64 Accuracy of LogisticRegression is 79.33%\n"}
+,{"stream_name":"stdout","time":55.171136232,"data":"0.65 Accuracy of LogisticRegression is 78.77%\n"}
+,{"stream_name":"stdout","time":55.171141027,"data":"0.66 Accuracy of LogisticRegression is 78.77%\n"}
+,{"stream_name":"stdout","time":55.171146189,"data":"0.67 Accuracy of LogisticRegression is 77.65%\n"}
+,{"stream_name":"stdout","time":55.171151277,"data":"0.68 Accuracy of LogisticRegression is 76.54%\n"}
+,{"stream_name":"stdout","time":55.171156029,"data":"0.6900000000000001 Accuracy of LogisticRegression is 76.54%\n"}
+,{"stream_name":"stdout","time":55.171160779,"data":"0.7000000000000001 Accuracy of LogisticRegression is 76.54%\n"}
+,{"stream_name":"stdout","time":55.171165994,"data":"0.71 Accuracy of LogisticRegression is 76.54%\n"}
+,{"stream_name":"stdout","time":55.171170877,"data":"0.72 Accuracy of LogisticRegression is 77.09%\n"}
+,{"stream_name":"stdout","time":55.171175997,"data":"0.73 Accuracy of LogisticRegression is 77.09%\n"}
+,{"stream_name":"stdout","time":55.171181622,"data":"0.74 Accuracy of LogisticRegression is 77.09%\n"}
+,{"stream_name":"stdout","time":55.171186936,"data":"0.75 Accuracy of LogisticRegression is 77.09%\n"}
+,{"stream_name":"stdout","time":55.171191708,"data":"0.76 Accuracy of LogisticRegression is 75.42%\n"}
+,{"stream_name":"stdout","time":55.171196723,"data":"0.77 Accuracy of LogisticRegression is 73.74%\n"}
+,{"stream_name":"stdout","time":55.171201919,"data":"0.78 Accuracy of LogisticRegression is 73.18%\n"}
+,{"stream_name":"stdout","time":55.171207311,"data":"0.79 Accuracy of LogisticRegression is 73.18%\n"}
+,{"stream_name":"stdout","time":55.171212542,"data":"0.8 Accuracy of LogisticRegression is 72.63%\n"}
+,{"stream_name":"stdout","time":55.171217615,"data":"0.81 Accuracy of LogisticRegression is 71.51%\n"}
+,{"stream_name":"stdout","time":55.171222351,"data":"0.8200000000000001 Accuracy of LogisticRegression is 70.95%\n"}
+,{"stream_name":"stdout","time":55.171227643,"data":"0.8300000000000001 Accuracy of LogisticRegression is 70.39%\n"}
+,{"stream_name":"stdout","time":55.171232918,"data":"0.84 Accuracy of LogisticRegression is 70.39%\n"}
+,{"stream_name":"stdout","time":55.171237601,"data":"0.85 Accuracy of LogisticRegression is 70.39%\n"}
+,{"stream_name":"stdout","time":55.171243838,"data":"0.86 Accuracy of LogisticRegression is 69.83%\n"}
+,{"stream_name":"stdout","time":55.171248744,"data":"0.87 Accuracy of LogisticRegression is 68.72%\n"}
+,{"stream_name":"stdout","time":55.171253532,"data":"0.88 Accuracy of LogisticRegression is 68.16%\n"}
+,{"stream_name":"stdout","time":55.171258524,"data":"0.89 Accuracy of LogisticRegression is 68.72%\n"}
+,{"stream_name":"stdout","time":55.171263497,"data":"0.9 Accuracy of LogisticRegression is 67.04%\n"}
+,{"stream_name":"stdout","time":55.171274806,"data":"0.91 Accuracy of LogisticRegression is 67.04%\n"}
+,{"stream_name":"stdout","time":55.17127979,"data":"0.92 Accuracy of LogisticRegression is 67.04%\n"}
+,{"stream_name":"stdout","time":55.171284338,"data":"0.93 Accuracy of LogisticRegression is 65.92%\n"}
+,{"stream_name":"stdout","time":55.171289367,"data":"0.9400000000000001 Accuracy of LogisticRegression is 64.25%\n"}
+,{"stream_name":"stdout","time":55.171294269,"data":"0.9500000000000001 Accuracy of LogisticRegression is 63.69%\n"}
+,{"stream_name":"stdout","time":55.171299659,"data":"0.96 Accuracy of LogisticRegression is 62.57%\n"}
+,{"stream_name":"stdout","time":55.171304938,"data":"0.97 Accuracy of LogisticRegression is 62.57%\n"}
+,{"stream_name":"stdout","time":55.171310367,"data":"0.98 Accuracy of LogisticRegression is 62.01%\n"}
+,{"stream_name":"stdout","time":55.171315502,"data":"0.99 Accuracy of LogisticRegression is 61.45%\n"}
+,{"stream_name":"stdout","time":56.149874475,"data":"82.12290502793296\n"}
+,{"stream_name":"stdout","time":56.1499099,"data":"47\n"}
+,{"stream_name":"stdout","time":57.454573194,"data":"0.0 Accuracy of DecisionTree is 54.75%\n"}
+,{"stream_name":"stdout","time":57.454607776,"data":"0.01 Accuracy of DecisionTree is 54.75%\n"}
+,{"stream_name":"stdout","time":57.454613054,"data":"0.02 Accuracy of DecisionTree is 54.75%\n"}
+,{"stream_name":"stdout","time":57.454616625,"data":"0.03 Accuracy of DecisionTree is 54.75%\n"}
+,{"stream_name":"stdout","time":57.454620083,"data":"0.04 Accuracy of DecisionTree is 58.66%\n"}
+,{"stream_name":"stdout","time":57.454624158,"data":"0.05 Accuracy of DecisionTree is 58.66%\n"}
+,{"stream_name":"stdout","time":57.454628006,"data":"0.06 Accuracy of DecisionTree is 58.66%\n"}
+,{"stream_name":"stdout","time":57.454631406,"data":"0.07 Accuracy of DecisionTree is 60.34%\n"}
+,{"stream_name":"stdout","time":57.454634656,"data":"0.08 Accuracy of DecisionTree is 62.57%\n"}
+,{"stream_name":"stdout","time":57.454637873,"data":"0.09 Accuracy of DecisionTree is 62.57%\n"}
+,{"stream_name":"stdout","time":57.454641175,"data":"0.1 Accuracy of DecisionTree is 72.07%\n"}
+,{"stream_name":"stdout","time":57.454644425,"data":"0.11 Accuracy of DecisionTree is 72.07%\n"}
+,{"stream_name":"stdout","time":57.45464776,"data":"0.12 Accuracy of DecisionTree is 73.18%\n"}
+,{"stream_name":"stdout","time":57.454650974,"data":"0.13 Accuracy of DecisionTree is 74.86%\n"}
+,{"stream_name":"stdout","time":57.454654281,"data":"0.14 Accuracy of DecisionTree is 74.86%\n"}
+,{"stream_name":"stdout","time":57.454657515,"data":"0.15 Accuracy of DecisionTree is 74.86%\n"}
+,{"stream_name":"stdout","time":57.454660726,"data":"0.16 Accuracy of DecisionTree is 74.86%\n"}
+,{"stream_name":"stdout","time":57.454664046,"data":"0.17 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.45466733,"data":"0.18 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.45467054,"data":"0.19 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454673761,"data":"0.2 Accuracy of DecisionTree is 78.77%\n"}
+,{"stream_name":"stdout","time":57.454677056,"data":"0.21 Accuracy of DecisionTree is 78.77%\n"}
+,{"stream_name":"stdout","time":57.454697346,"data":"0.22 Accuracy of DecisionTree is 78.77%\n"}
+,{"stream_name":"stdout","time":57.454703745,"data":"0.23 Accuracy of DecisionTree is 79.33%\n"}
+,{"stream_name":"stdout","time":57.454707068,"data":"0.24 Accuracy of DecisionTree is 79.33%\n"}
+,{"stream_name":"stdout","time":57.454710328,"data":"0.25 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454721128,"data":"0.26 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454724579,"data":"0.27 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454727838,"data":"0.28 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454731092,"data":"0.29 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454734384,"data":"0.3 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454737625,"data":"0.31 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454740892,"data":"0.32 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454744159,"data":"0.33 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454747417,"data":"0.34 Accuracy of DecisionTree is 81.56%\n"}
+,{"stream_name":"stdout","time":57.454750657,"data":"0.35000000000000003 Accuracy of DecisionTree is 81.56%\n"}
+,{"stream_name":"stdout","time":57.454753947,"data":"0.36 Accuracy of DecisionTree is 81.56%\n"}
+,{"stream_name":"stdout","time":57.45475721,"data":"0.37 Accuracy of DecisionTree is 81.56%\n"}
+,{"stream_name":"stdout","time":57.454760466,"data":"0.38 Accuracy of DecisionTree is 82.68%\n"}
+,{"stream_name":"stdout","time":57.454763836,"data":"0.39 Accuracy of DecisionTree is 82.68%\n"}
+,{"stream_name":"stdout","time":57.454767099,"data":"0.4 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454770398,"data":"0.41000000000000003 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454773798,"data":"0.42 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454777062,"data":"0.43 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454780322,"data":"0.44 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454783566,"data":"0.45 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.45478682,"data":"0.46 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454790113,"data":"0.47000000000000003 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454793412,"data":"0.48 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454796692,"data":"0.49 Accuracy of DecisionTree is 83.24%\n"}
+,{"stream_name":"stdout","time":57.454800947,"data":"0.5 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454804407,"data":"0.51 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454807668,"data":"0.52 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454810916,"data":"0.53 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454814164,"data":"0.54 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454817427,"data":"0.55 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454820658,"data":"0.56 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454834496,"data":"0.5700000000000001 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454837894,"data":"0.58 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454841154,"data":"0.59 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454844379,"data":"0.6 Accuracy of DecisionTree is 79.89%\n"}
+,{"stream_name":"stdout","time":57.454847576,"data":"0.61 Accuracy of DecisionTree is 79.89%\n"}
+,{"stream_name":"stdout","time":57.454850769,"data":"0.62 Accuracy of DecisionTree is 79.89%\n"}
+,{"stream_name":"stdout","time":57.454857436,"data":"0.63 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454860854,"data":"0.64 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454866136,"data":"0.65 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454869419,"data":"0.66 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454872609,"data":"0.67 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454875813,"data":"0.68 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454878997,"data":"0.6900000000000001 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454882241,"data":"0.7000000000000001 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454885533,"data":"0.71 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454888706,"data":"0.72 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454891884,"data":"0.73 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454895093,"data":"0.74 Accuracy of DecisionTree is 80.45%\n"}
+,{"stream_name":"stdout","time":57.454898263,"data":"0.75 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454901498,"data":"0.76 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454904737,"data":"0.77 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454907916,"data":"0.78 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454911097,"data":"0.79 Accuracy of DecisionTree is 78.21%\n"}
+,{"stream_name":"stdout","time":57.454914271,"data":"0.8 Accuracy of DecisionTree is 77.65%\n"}
+,{"stream_name":"stdout","time":57.454917458,"data":"0.81 Accuracy of DecisionTree is 77.65%\n"}
+,{"stream_name":"stdout","time":57.454920663,"data":"0.8200000000000001 Accuracy of DecisionTree is 77.65%\n"}
+,{"stream_name":"stdout","time":57.454923986,"data":"0.8300000000000001 Accuracy of DecisionTree is 77.65%\n"}
+,{"stream_name":"stdout","time":57.454927232,"data":"0.84 Accuracy of DecisionTree is 77.65%\n"}
+,{"stream_name":"stdout","time":57.454953378,"data":"0.85 Accuracy of DecisionTree is 77.65%\n"}
+,{"stream_name":"stdout","time":57.454957244,"data":"0.86 Accuracy of DecisionTree is 77.65%\n"}
+,{"stream_name":"stdout","time":57.454960549,"data":"0.87 Accuracy of DecisionTree is 77.65%\n"}
+,{"stream_name":"stdout","time":57.454963762,"data":"0.88 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454966978,"data":"0.89 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454970218,"data":"0.9 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.45497344,"data":"0.91 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454976706,"data":"0.92 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454979923,"data":"0.93 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454983125,"data":"0.9400000000000001 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454986389,"data":"0.9500000000000001 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.45498964,"data":"0.96 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454992876,"data":"0.97 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454996097,"data":"0.98 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":57.454999802,"data":"0.99 Accuracy of DecisionTree is 77.09%\n"}
+,{"stream_name":"stdout","time":58.452876624,"data":"83.24022346368714\n"}
+,{"stream_name":"stdout","time":58.452932907,"data":"40\n"}
+,{"stream_name":"stdout","time":59.773161289,"data":"0.0 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773196633,"data":"0.01 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.7732038,"data":"0.02 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773208867,"data":"0.03 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773213772,"data":"0.04 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773218804,"data":"0.05 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773223755,"data":"0.06 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773228217,"data":"0.07 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773233119,"data":"0.08 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773237837,"data":"0.09 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773241555,"data":"0.1 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773244889,"data":"0.11 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773248041,"data":"0.12 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773251020000004,"data":"0.13 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773254104,"data":"0.14 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773257022,"data":"0.15 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773259941,"data":"0.16 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773262897,"data":"0.17 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773265913,"data":"0.18 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773268833,"data":"0.19 Accuracy of  is KNN63.13%\n"}
+,{"stream_name":"stdout","time":59.773271763,"data":"0.2 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773279119,"data":"0.21 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773282655,"data":"0.22 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773286223,"data":"0.23 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773292441,"data":"0.24 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773297222,"data":"0.25 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773301777,"data":"0.26 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773306243,"data":"0.27 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773310781,"data":"0.28 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773315393,"data":"0.29 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773319829,"data":"0.3 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773324213,"data":"0.31 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773328596,"data":"0.32 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773332909,"data":"0.33 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773337471,"data":"0.34 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.77334228,"data":"0.35000000000000003 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773346317,"data":"0.36 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773349365,"data":"0.37 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773364305,"data":"0.38 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773367447,"data":"0.39 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.77337047,"data":"0.4 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773373481,"data":"0.41000000000000003 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773376533,"data":"0.42 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773379534,"data":"0.43 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773383732,"data":"0.44 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773388173,"data":"0.45 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773392688,"data":"0.46 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773397272,"data":"0.47000000000000003 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773402283,"data":"0.48 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.77340714,"data":"0.49 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773415495,"data":"0.5 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773419922,"data":"0.51 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773424266,"data":"0.52 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773428647,"data":"0.53 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773432944,"data":"0.54 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773437499,"data":"0.55 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773441833,"data":"0.56 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773446154,"data":"0.5700000000000001 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773459803,"data":"0.58 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773463411,"data":"0.59 Accuracy of  is KNN80.45%\n"}
+,{"stream_name":"stdout","time":59.773466555,"data":"0.6 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.773470071,"data":"0.61 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895409316,"data":"0.62 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895443938,"data":"0.63 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895451422,"data":"0.64 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895456705,"data":"0.65 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895461665,"data":"0.66 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895466659,"data":"0.67 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895471394,"data":"0.68 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895476423,"data":"0.6900000000000001 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895481576,"data":"0.7000000000000001 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.89548603,"data":"0.71 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895490602,"data":"0.72 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895495563,"data":"0.73 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895501385,"data":"0.74 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895506256,"data":"0.75 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895510782,"data":"0.76 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895515001,"data":"0.77 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.89553989,"data":"0.78 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895544667,"data":"0.79 Accuracy of  is KNN79.89%\n"}
+,{"stream_name":"stdout","time":59.895549235,"data":"0.8 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895553547,"data":"0.81 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895558296,"data":"0.8200000000000001 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895562776,"data":"0.8300000000000001 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895567335,"data":"0.84 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895572243,"data":"0.85 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895577361,"data":"0.86 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895582537,"data":"0.87 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895587801,"data":"0.88 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895593051,"data":"0.89 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895598723,"data":"0.9 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895604046,"data":"0.91 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.89560933,"data":"0.92 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895614433,"data":"0.93 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895619552,"data":"0.9400000000000001 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895624729,"data":"0.9500000000000001 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895630071,"data":"0.96 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895635411,"data":"0.97 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.895640603,"data":"0.98 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":59.89564585,"data":"0.99 Accuracy of  is KNN73.74%\n"}
+,{"stream_name":"stdout","time":60.892423378,"data":"80.44692737430168\n"}
+,{"stream_name":"stdout","time":60.892461099,"data":"40\n"}
+,{"stream_name":"stdout","time":62.118516155,"data":"Accuracies for different values of n are: [0.80446927 0.79329609 0.83240223 0.80446927 0.80446927 0.80446927\n"}
+,{"stream_name":"stdout","time":62.118599061,"data":" 0.81564246 0.81564246 0.81564246 0.81564246 0.80446927 0.81564246\n"}
+,{"stream_name":"stdout","time":62.118625967,"data":" 0.81564246 0.82122905] with the max value as  0.8324022346368715\n"}
+,{"stream_name":"stdout","time":63.301346508,"data":"Accuracies for different values of n are: [0.80446927 0.72625698 0.83240223 0.7877095  0.80446927 0.7877095\n"}
+,{"stream_name":"stdout","time":63.301390522,"data":" 0.79329609 0.81005587 0.82122905 0.83798883 0.81564246 0.79329609\n"}
+,{"stream_name":"stdout","time":63.301398847,"data":" 0.81564246 0.79888268] with the max value as  0.8379888268156425\n"}
+,{"stream_name":"stdout","time":64.682632852,"data":"0.0 Accuracy of  is GNB38.55%\n"}
+,{"stream_name":"stdout","time":64.68266286,"data":"0.01 Accuracy of  is GNB40.78%\n"}
+,{"stream_name":"stdout","time":64.682667664,"data":"0.02 Accuracy of  is GNB52.51%\n"}
+,{"stream_name":"stdout","time":64.682671305,"data":"0.03 Accuracy of  is GNB57.54%\n"}
+,{"stream_name":"stdout","time":64.68267466,"data":"0.04 Accuracy of  is GNB63.13%\n"}
+,{"stream_name":"stdout","time":64.68267836,"data":"0.05 Accuracy of  is GNB65.36%\n"}
+,{"stream_name":"stdout","time":64.682681735,"data":"0.06 Accuracy of  is GNB67.04%\n"}
+,{"stream_name":"stdout","time":64.682684926,"data":"0.07 Accuracy of  is GNB68.16%\n"}
+,{"stream_name":"stdout","time":64.68270011,"data":"0.08 Accuracy of  is GNB70.95%\n"}
+,{"stream_name":"stdout","time":64.682703298,"data":"0.09 Accuracy of  is GNB70.95%\n"}
+,{"stream_name":"stdout","time":64.682706296,"data":"0.1 Accuracy of  is GNB69.83%\n"}
+,{"stream_name":"stdout","time":64.682709411,"data":"0.11 Accuracy of  is GNB70.95%\n"}
+,{"stream_name":"stdout","time":64.682712417,"data":"0.12 Accuracy of  is GNB70.95%\n"}
+,{"stream_name":"stdout","time":64.68271539,"data":"0.13 Accuracy of  is GNB72.07%\n"}
+,{"stream_name":"stdout","time":64.682718428,"data":"0.14 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682736096,"data":"0.15 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682740942,"data":"0.16 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682745686,"data":"0.17 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682754716,"data":"0.18 Accuracy of  is GNB74.30%\n"}
+,{"stream_name":"stdout","time":64.682760493,"data":"0.19 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682765221,"data":"0.2 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682769776,"data":"0.21 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.68277423,"data":"0.22 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682778742,"data":"0.23 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682783331,"data":"0.24 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.682787835,"data":"0.25 Accuracy of  is GNB74.86%\n"}
+,{"stream_name":"stdout","time":64.682792554,"data":"0.26 Accuracy of  is GNB74.86%\n"}
+,{"stream_name":"stdout","time":64.682797076,"data":"0.27 Accuracy of  is GNB74.86%\n"}
+,{"stream_name":"stdout","time":64.682801964,"data":"0.28 Accuracy of  is GNB75.42%\n"}
+,{"stream_name":"stdout","time":64.682806787,"data":"0.29 Accuracy of  is GNB75.42%\n"}
+,{"stream_name":"stdout","time":64.682811316,"data":"0.3 Accuracy of  is GNB75.42%\n"}
+,{"stream_name":"stdout","time":64.682815997,"data":"0.31 Accuracy of  is GNB75.42%\n"}
+,{"stream_name":"stdout","time":64.682820506,"data":"0.32 Accuracy of  is GNB75.42%\n"}
+,{"stream_name":"stdout","time":64.682838762,"data":"0.33 Accuracy of  is GNB75.42%\n"}
+,{"stream_name":"stdout","time":64.682843188,"data":"0.34 Accuracy of  is GNB76.54%\n"}
+,{"stream_name":"stdout","time":64.682847708,"data":"0.35000000000000003 Accuracy of  is GNB76.54%\n"}
+,{"stream_name":"stdout","time":64.682852044,"data":"0.36 Accuracy of  is GNB76.54%\n"}
+,{"stream_name":"stdout","time":64.682856863,"data":"0.37 Accuracy of  is GNB77.09%\n"}
+,{"stream_name":"stdout","time":64.682861028,"data":"0.38 Accuracy of  is GNB77.09%\n"}
+,{"stream_name":"stdout","time":64.682865128,"data":"0.39 Accuracy of  is GNB76.54%\n"}
+,{"stream_name":"stdout","time":64.6828697,"data":"0.4 Accuracy of  is GNB76.54%\n"}
+,{"stream_name":"stdout","time":64.682873784,"data":"0.41000000000000003 Accuracy of  is GNB76.54%\n"}
+,{"stream_name":"stdout","time":64.682878019,"data":"0.42 Accuracy of  is GNB76.54%\n"}
+,{"stream_name":"stdout","time":64.682882148,"data":"0.43 Accuracy of  is GNB76.54%\n"}
+,{"stream_name":"stdout","time":64.682886223,"data":"0.44 Accuracy of  is GNB78.21%\n"}
+,{"stream_name":"stdout","time":64.68289035,"data":"0.45 Accuracy of  is GNB78.21%\n"}
+,{"stream_name":"stdout","time":64.682894992,"data":"0.46 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.682899686,"data":"0.47000000000000003 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.682911291,"data":"0.48 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.682915867,"data":"0.49 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.682920252,"data":"0.5 Accuracy of  is GNB78.77%\n"}
+,{"stream_name":"stdout","time":64.682924978,"data":"0.51 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.682929606,"data":"0.52 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.682934318,"data":"0.53 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.682939492,"data":"0.54 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.682944204,"data":"0.55 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.68294937,"data":"0.56 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.682954183,"data":"0.5700000000000001 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.682959181,"data":"0.58 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.682964214,"data":"0.59 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.682968687,"data":"0.6 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.682973562,"data":"0.61 Accuracy of  is GNB79.89%\n"}
+,{"stream_name":"stdout","time":64.682978359,"data":"0.62 Accuracy of  is GNB79.89%\n"}
+,{"stream_name":"stdout","time":64.682983494,"data":"0.63 Accuracy of  is GNB79.89%\n"}
+,{"stream_name":"stdout","time":64.682989547,"data":"0.64 Accuracy of  is GNB79.89%\n"}
+,{"stream_name":"stdout","time":64.682994286,"data":"0.65 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.682998936,"data":"0.66 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.683003783,"data":"0.67 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.683008883,"data":"0.68 Accuracy of  is GNB81.01%\n"}
+,{"stream_name":"stdout","time":64.683013472,"data":"0.6900000000000001 Accuracy of  is GNB81.01%\n"}
+,{"stream_name":"stdout","time":64.683017996,"data":"0.7000000000000001 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.6830361,"data":"0.71 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.683040767,"data":"0.72 Accuracy of  is GNB80.45%\n"}
+,{"stream_name":"stdout","time":64.683045428,"data":"0.73 Accuracy of  is GNB79.89%\n"}
+,{"stream_name":"stdout","time":64.68305025,"data":"0.74 Accuracy of  is GNB79.89%\n"}
+,{"stream_name":"stdout","time":64.683055042,"data":"0.75 Accuracy of  is GNB79.89%\n"}
+,{"stream_name":"stdout","time":64.683059834,"data":"0.76 Accuracy of  is GNB79.89%\n"}
+,{"stream_name":"stdout","time":64.683064581,"data":"0.77 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.683069953,"data":"0.78 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.683074762,"data":"0.79 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.68307954,"data":"0.8 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.683084333,"data":"0.81 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.683089161,"data":"0.8200000000000001 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.683094014,"data":"0.8300000000000001 Accuracy of  is GNB79.33%\n"}
+,{"stream_name":"stdout","time":64.683098982,"data":"0.84 Accuracy of  is GNB78.21%\n"}
+,{"stream_name":"stdout","time":64.68310375,"data":"0.85 Accuracy of  is GNB78.77%\n"}
+,{"stream_name":"stdout","time":64.683108769,"data":"0.86 Accuracy of  is GNB78.21%\n"}
+,{"stream_name":"stdout","time":64.683113642,"data":"0.87 Accuracy of  is GNB77.65%\n"}
+,{"stream_name":"stdout","time":64.683124725,"data":"0.88 Accuracy of  is GNB78.21%\n"}
+,{"stream_name":"stdout","time":64.683129693,"data":"0.89 Accuracy of  is GNB78.21%\n"}
+,{"stream_name":"stdout","time":64.683134434,"data":"0.9 Accuracy of  is GNB78.21%\n"}
+,{"stream_name":"stdout","time":64.683139214,"data":"0.91 Accuracy of  is GNB78.21%\n"}
+,{"stream_name":"stdout","time":64.683144078,"data":"0.92 Accuracy of  is GNB77.09%\n"}
+,{"stream_name":"stdout","time":64.683148939,"data":"0.93 Accuracy of  is GNB75.98%\n"}
+,{"stream_name":"stdout","time":64.683153972,"data":"0.9400000000000001 Accuracy of  is GNB74.86%\n"}
+,{"stream_name":"stdout","time":64.683158838,"data":"0.9500000000000001 Accuracy of  is GNB74.86%\n"}
+,{"stream_name":"stdout","time":64.683163795,"data":"0.96 Accuracy of  is GNB73.74%\n"}
+,{"stream_name":"stdout","time":64.683168638,"data":"0.97 Accuracy of  is GNB74.30%\n"}
+,{"stream_name":"stdout","time":64.683173501,"data":"0.98 Accuracy of  is GNB72.07%\n"}
+,{"stream_name":"stdout","time":64.683178355,"data":"0.99 Accuracy of  is GNB71.51%\n"}
+,{"stream_name":"stdout","time":65.704176218,"data":"81.00558659217877\n"}
+,{"stream_name":"stdout","time":65.704209602,"data":"68\n"}
+,{"stream_name":"stdout","time":67.371747183,"data":"0.0 Accuracy of  is RandomForest39.66%\n"}
+,{"stream_name":"stdout","time":67.371792373,"data":"0.01 Accuracy of  is RandomForest40.22%\n"}
+,{"stream_name":"stdout","time":67.37180092,"data":"0.02 Accuracy of  is RandomForest43.02%\n"}
+,{"stream_name":"stdout","time":67.371806307,"data":"0.03 Accuracy of  is RandomForest48.60%\n"}
+,{"stream_name":"stdout","time":67.371815281,"data":"0.04 Accuracy of  is RandomForest50.84%\n"}
+,{"stream_name":"stdout","time":67.371835519,"data":"0.05 Accuracy of  is RandomForest50.84%\n"}
+,{"stream_name":"stdout","time":67.371843346,"data":"0.06 Accuracy of  is RandomForest53.63%\n"}
+,{"stream_name":"stdout","time":67.371848501,"data":"0.07 Accuracy of  is RandomForest55.87%\n"}
+,{"stream_name":"stdout","time":67.371853285,"data":"0.08 Accuracy of  is RandomForest58.66%\n"}
+,{"stream_name":"stdout","time":67.371858281,"data":"0.09 Accuracy of  is RandomForest70.39%\n"}
+,{"stream_name":"stdout","time":67.371863091,"data":"0.1 Accuracy of  is RandomForest70.39%\n"}
+,{"stream_name":"stdout","time":67.371868199,"data":"0.11 Accuracy of  is RandomForest73.18%\n"}
+,{"stream_name":"stdout","time":67.371873836,"data":"0.12 Accuracy of  is RandomForest73.74%\n"}
+,{"stream_name":"stdout","time":67.371878639,"data":"0.13 Accuracy of  is RandomForest73.74%\n"}
+,{"stream_name":"stdout","time":67.371883184,"data":"0.14 Accuracy of  is RandomForest73.74%\n"}
+,{"stream_name":"stdout","time":67.578279067,"data":"0.15 Accuracy of  is RandomForest73.74%\n"}
+,{"stream_name":"stdout","time":67.578331739,"data":"0.16 Accuracy of  is RandomForest73.74%\n"}
+,{"stream_name":"stdout","time":67.578338172,"data":"0.17 Accuracy of  is RandomForest75.98%\n"}
+,{"stream_name":"stdout","time":67.578342366,"data":"0.18 Accuracy of  is RandomForest75.98%\n"}
+,{"stream_name":"stdout","time":67.578346117,"data":"0.19 Accuracy of  is RandomForest77.09%\n"}
+,{"stream_name":"stdout","time":67.57834959,"data":"0.2 Accuracy of  is RandomForest77.09%\n"}
+,{"stream_name":"stdout","time":67.578353191,"data":"0.21 Accuracy of  is RandomForest77.65%\n"}
+,{"stream_name":"stdout","time":67.578356496,"data":"0.22 Accuracy of  is RandomForest77.65%\n"}
+,{"stream_name":"stdout","time":67.578359845,"data":"0.23 Accuracy of  is RandomForest77.65%\n"}
+,{"stream_name":"stdout","time":67.578363257,"data":"0.24 Accuracy of  is RandomForest77.65%\n"}
+,{"stream_name":"stdout","time":67.57838403,"data":"0.25 Accuracy of  is RandomForest78.21%\n"}
+,{"stream_name":"stdout","time":67.578389597,"data":"0.26 Accuracy of  is RandomForest78.77%\n"}
+,{"stream_name":"stdout","time":67.578409247,"data":"0.27 Accuracy of  is RandomForest79.89%\n"}
+,{"stream_name":"stdout","time":67.578416452,"data":"0.28 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":67.578421472,"data":"0.29 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":67.57842659,"data":"0.3 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":67.794382424,"data":"0.31 Accuracy of  is RandomForest79.89%\n"}
+,{"stream_name":"stdout","time":67.794425372,"data":"0.32 Accuracy of  is RandomForest79.89%\n"}
+,{"stream_name":"stdout","time":67.794432271,"data":"0.33 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":67.794437589,"data":"0.34 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":67.794442286,"data":"0.35000000000000003 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":67.794447164,"data":"0.36 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":67.794452347,"data":"0.37 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":67.794457005,"data":"0.38 Accuracy of  is RandomForest82.12%\n"}
+,{"stream_name":"stdout","time":67.794462658,"data":"0.39 Accuracy of  is RandomForest82.12%\n"}
+,{"stream_name":"stdout","time":67.794468181,"data":"0.4 Accuracy of  is RandomForest82.12%\n"}
+,{"stream_name":"stdout","time":67.794473611,"data":"0.41000000000000003 Accuracy of  is RandomForest82.68%\n"}
+,{"stream_name":"stdout","time":67.794478743,"data":"0.42 Accuracy of  is RandomForest82.68%\n"}
+,{"stream_name":"stdout","time":67.79448342,"data":"0.43 Accuracy of  is RandomForest83.24%\n"}
+,{"stream_name":"stdout","time":68.007926922,"data":"0.44 Accuracy of  is RandomForest83.24%\n"}
+,{"stream_name":"stdout","time":68.008146214,"data":"0.45 Accuracy of  is RandomForest83.80%\n"}
+,{"stream_name":"stdout","time":68.008173582,"data":"0.46 Accuracy of  is RandomForest83.80%\n"}
+,{"stream_name":"stdout","time":68.008180737,"data":"0.47000000000000003 Accuracy of  is RandomForest82.68%\n"}
+,{"stream_name":"stdout","time":68.008186023,"data":"0.48 Accuracy of  is RandomForest82.12%\n"}
+,{"stream_name":"stdout","time":68.008197766,"data":"0.49 Accuracy of  is RandomForest81.01%\n"}
+,{"stream_name":"stdout","time":68.008203763,"data":"0.5 Accuracy of  is RandomForest81.01%\n"}
+,{"stream_name":"stdout","time":68.0082094,"data":"0.51 Accuracy of  is RandomForest79.89%\n"}
+,{"stream_name":"stdout","time":68.008214991,"data":"0.52 Accuracy of  is RandomForest79.33%\n"}
+,{"stream_name":"stdout","time":68.008220511,"data":"0.53 Accuracy of  is RandomForest78.77%\n"}
+,{"stream_name":"stdout","time":68.008225485,"data":"0.54 Accuracy of  is RandomForest79.33%\n"}
+,{"stream_name":"stdout","time":68.008230429,"data":"0.55 Accuracy of  is RandomForest79.33%\n"}
+,{"stream_name":"stdout","time":68.008235153,"data":"0.56 Accuracy of  is RandomForest79.33%\n"}
+,{"stream_name":"stdout","time":68.008239924,"data":"0.5700000000000001 Accuracy of  is RandomForest79.33%\n"}
+,{"stream_name":"stdout","time":68.223571114,"data":"0.58 Accuracy of  is RandomForest79.33%\n"}
+,{"stream_name":"stdout","time":68.223613743,"data":"0.59 Accuracy of  is RandomForest79.33%\n"}
+,{"stream_name":"stdout","time":68.223619724,"data":"0.6 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":68.223642379,"data":"0.61 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":68.223646252,"data":"0.62 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":68.223649697,"data":"0.63 Accuracy of  is RandomForest80.45%\n"}
+,{"stream_name":"stdout","time":68.223653153,"data":"0.64 Accuracy of  is RandomForest81.01%\n"}
+,{"stream_name":"stdout","time":68.223656621,"data":"0.65 Accuracy of  is RandomForest81.01%\n"}
+,{"stream_name":"stdout","time":68.223659937,"data":"0.66 Accuracy of  is RandomForest81.56%\n"}
+,{"stream_name":"stdout","time":68.223664143,"data":"0.67 Accuracy of  is RandomForest81.56%\n"}
+,{"stream_name":"stdout","time":68.223667889,"data":"0.68 Accuracy of  is RandomForest81.56%\n"}
+,{"stream_name":"stdout","time":68.223671416,"data":"0.6900000000000001 Accuracy of  is RandomForest81.56%\n"}
+,{"stream_name":"stdout","time":68.223674785,"data":"0.7000000000000001 Accuracy of  is RandomForest81.56%\n"}
+,{"stream_name":"stdout","time":68.223678174,"data":"0.71 Accuracy of  is RandomForest81.01%\n"}
+,{"stream_name":"stdout","time":68.429684022,"data":"0.72 Accuracy of  is RandomForest81.01%\n"}
+,{"stream_name":"stdout","time":68.42972443,"data":"0.73 Accuracy of  is RandomForest81.01%\n"}
+,{"stream_name":"stdout","time":68.429732203,"data":"0.74 Accuracy of  is RandomForest81.01%\n"}
+,{"stream_name":"stdout","time":68.429743405,"data":"0.75 Accuracy of  is RandomForest78.77%\n"}
+,{"stream_name":"stdout","time":68.429749192,"data":"0.76 Accuracy of  is RandomForest78.21%\n"}
+,{"stream_name":"stdout","time":68.429754201,"data":"0.77 Accuracy of  is RandomForest78.21%\n"}
+,{"stream_name":"stdout","time":68.429759154,"data":"0.78 Accuracy of  is RandomForest78.21%\n"}
+,{"stream_name":"stdout","time":68.429763988,"data":"0.79 Accuracy of  is RandomForest77.65%\n"}
+,{"stream_name":"stdout","time":68.429769003,"data":"0.8 Accuracy of  is RandomForest76.54%\n"}
+,{"stream_name":"stdout","time":68.429773927,"data":"0.81 Accuracy of  is RandomForest76.54%\n"}
+,{"stream_name":"stdout","time":68.429778855,"data":"0.8200000000000001 Accuracy of  is RandomForest76.54%\n"}
+,{"stream_name":"stdout","time":68.429782333,"data":"0.8300000000000001 Accuracy of  is RandomForest76.54%\n"}
+,{"stream_name":"stdout","time":68.42978566,"data":"0.84 Accuracy of  is RandomForest76.54%\n"}
+,{"stream_name":"stdout","time":68.429788819,"data":"0.85 Accuracy of  is RandomForest75.98%\n"}
+,{"stream_name":"stdout","time":68.429792032,"data":"0.86 Accuracy of  is RandomForest75.42%\n"}
+,{"stream_name":"stdout","time":68.597572531,"data":"0.87 Accuracy of  is RandomForest75.42%\n"}
+,{"stream_name":"stdout","time":68.597614821,"data":"0.88 Accuracy of  is RandomForest75.42%\n"}
+,{"stream_name":"stdout","time":68.597622678,"data":"0.89 Accuracy of  is RandomForest74.86%\n"}
+,{"stream_name":"stdout","time":68.597627977,"data":"0.9 Accuracy of  is RandomForest74.86%\n"}
+,{"stream_name":"stdout","time":68.597633868,"data":"0.91 Accuracy of  is RandomForest75.42%\n"}
+,{"stream_name":"stdout","time":68.5976397,"data":"0.92 Accuracy of  is RandomForest75.42%\n"}
+,{"stream_name":"stdout","time":68.597644674,"data":"0.93 Accuracy of  is RandomForest74.30%\n"}
+,{"stream_name":"stdout","time":68.597649598,"data":"0.9400000000000001 Accuracy of  is RandomForest73.18%\n"}
+,{"stream_name":"stdout","time":68.597654503,"data":"0.9500000000000001 Accuracy of  is RandomForest72.63%\n"}
+,{"stream_name":"stdout","time":68.597660019,"data":"0.96 Accuracy of  is RandomForest72.63%\n"}
+,{"stream_name":"stdout","time":68.597664524,"data":"0.97 Accuracy of  is RandomForest72.07%\n"}
+,{"stream_name":"stdout","time":68.597690807,"data":"0.98 Accuracy of  is RandomForest70.39%\n"}
+,{"stream_name":"stdout","time":68.597700281,"data":"0.99 Accuracy of  is RandomForest69.27%\n"}
+,{"stream_name":"stdout","time":69.64477975,"data":"83.79888268156425\n"}
+,{"stream_name":"stdout","time":69.644816073,"data":"45\n"}
+,{"stream_name":"stdout","time":84.220174531,"data":"Fitting 5 folds for each of 240 candidates, totalling 1200 fits\n"}
+,{"stream_name":"stderr","time":84.225304834,"data":"[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.\n"}
+,{"stream_name":"stdout","time":107.899883915,"data":"0.8282593685267716\n"}
+,{"stream_name":"stdout","time":107.899973028,"data":"SVC(C=0.4, gamma=0.3)\n"}
+,{"stream_name":"stderr","time":107.901576031,"data":"[Parallel(n_jobs=1)]: Done 1200 out of 1200 | elapsed:   23.8s finished\n"}
+,{"stream_name":"stdout","time":108.830948497,"data":"Fitting 5 folds for each of 9 candidates, totalling 45 fits\n"}
+,{"stream_name":"stderr","time":108.840471358,"data":"[Parallel(n_jobs=-1)]: Using backend LokyBackend with 4 concurrent workers.\n"}
+,{"stream_name":"stderr","time":131.67393622,"data":"[Parallel(n_jobs=-1)]: Done  45 out of  45 | elapsed:   22.6s finished\n"}
+,{"stream_name":"stdout","time":132.158592992,"data":"0.819327098110602\n"}
+,{"stream_name":"stdout","time":132.158637478,"data":"RandomForestClassifier(n_estimators=300, random_state=0)\n"}
+,{"stream_name":"stdout","time":132.158648831,"data":"{'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_impurity_split': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': 0, 'verbose': 0, 'warm_start': False}\n"}
+,{"stream_name":"stdout","time":134.293500475,"data":"83.24022346368714\n"}
+,{"stream_name":"stdout","time":134.293545238,"data":"{'rbf-svm': 83.24022346368714, 'linear-svm': 82.68156424581005, 'logistic_regression': 82.12290502793296, 'DecisionTree': 83.24022346368714, 'KNN': 80.44692737430168, 'GNB': 81.00558659217877, 'RF': 82.68156424581005}\n"}
+,{"stream_name":"stdout","time":150.471936739,"data":"The cross validated score for AdaBoost is: 0.8249188514357055\n"}
+,{"stream_name":"stdout","time":152.451166485,"data":"[04:19:12] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":153.106371457,"data":"[04:19:13] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":153.760870574,"data":"[04:19:14] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":154.412693753,"data":"[04:19:14] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":155.0618769,"data":"[04:19:15] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":155.711958141,"data":"[04:19:16] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":156.442179193,"data":"[04:19:16] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":157.072680288,"data":"[04:19:17] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":157.695231542,"data":"[04:19:18] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":158.332539194,"data":"[04:19:18] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":158.762559598,"data":"The cross validated score for XGBoost is: 0.8160299625468165\n"}
+,{"stream_name":"stdout","time":159.428832002,"data":"[04:19:19] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":165.846031767,"data":"The cross validated score for Gradient Boosting is: 0.8115230961298376\n"}
+,{"stream_name":"stdout","time":177.498739918,"data":"done\n"}
+,{"stream_name":"stdout","time":180.201807787,"data":"The accuracy for ensembled model is: 0.8268156424581006\n"}
+,{"stream_name":"stdout","time":192.870979508,"data":"The cross validated score is 0.8249188514357053\n"}
+,{"stream_name":"stdout","time":197.045288788,"data":"The accuracy for bagged KNN is: 0.8044692737430168\n"}
+,{"stream_name":"stdout","time":221.691468064,"data":"The cross validated score for bagged KNN is: 0.8160424469413232\n"}
+,{"stream_name":"stdout","time":223.150089255,"data":"The accuracy for bagged Decision Tree is: 0.8044692737430168\n"}
+,{"stream_name":"stdout","time":225.973065209,"data":"The cross validated score for bagged Decision Tree is: 0.8171410736579275\n"}
+,{"stream_name":"stdout","time":231.419679235,"data":"The cross validated score for AdaBoost is: 0.8249188514357055\n"}
+,{"stream_name":"stdout","time":245.596496259,"data":"The cross validated score for Gradient Boosting is: 0.8115230961298376\n"}
+,{"stream_name":"stdout","time":246.668857539,"data":"[04:20:47] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":247.303160116,"data":"[04:20:47] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":247.957598105,"data":"[04:20:48] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":248.598763582,"data":"[04:20:48] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":249.241211289,"data":"[04:20:49] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":249.879249064,"data":"[04:20:50] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":250.528256827,"data":"[04:20:50] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":251.211323203,"data":"[04:20:51] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":251.854410643,"data":"[04:20:52] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":252.494724268,"data":"[04:20:52] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stdout","time":252.950267604,"data":"The cross validated score for XGBoost is: 0.8160299625468165\n"}
+,{"stream_name":"stdout","time":255.512863938,"data":"[LightGBM] [Info] Number of positive: 273, number of negative: 439\n"}
+,{"stream_name":"stdout","time":255.51311037,"data":"[LightGBM] [Warning] Auto-choosing row-wise multi-threading, the overhead of testing was 0.000418 seconds.\n"}
+,{"stream_name":"stdout","time":255.513239713,"data":"You can set `force_row_wise=true` to remove the overhead.\n"}
+,{"stream_name":"stdout","time":255.513327898,"data":"And if memory is not enough, you can set `force_col_wise=true`.\n"}
+,{"stream_name":"stdout","time":255.513427931,"data":"[LightGBM] [Info] Total Bins 50\n"}
+,{"stream_name":"stdout","time":255.513511771,"data":"[LightGBM] [Info] Number of data points in the train set: 712, number of used features: 10\n"}
+,{"stream_name":"stdout","time":255.513595821,"data":"[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.383427 -\u003e initscore=-0.475028\n"}
+,{"stream_name":"stdout","time":255.513693706,"data":"[LightGBM] [Info] Start training from score -0.475028\n"}
+,{"stream_name":"stdout","time":255.513777905,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.513895209,"data":"Training until validation scores don't improve for 10 rounds\n"}
+,{"stream_name":"stdout","time":255.514020347,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514114449,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514206146,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514293775,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514402263,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514491661,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514557276,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514643137,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514739777,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.514819311,"data":"[10]\ttraining's binary_logloss: 0.438704\tvalid_1's binary_logloss: 0.464231\n"}
+,{"stream_name":"stdout","time":255.514915966,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515022674,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515125444,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515210151,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515284601,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515342529,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515421595,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515500479,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515572541,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515633341,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515709655,"data":"[20]\ttraining's binary_logloss: 0.377729\tvalid_1's binary_logloss: 0.411066\n"}
+,{"stream_name":"stdout","time":255.515795659,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515885721,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515908858,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.515983164,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.51600135,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516045026,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.51618498,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516264835,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516282863,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516330766,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516361448,"data":"[30]\ttraining's binary_logloss: 0.35588\tvalid_1's binary_logloss: 0.397551\n"}
+,{"stream_name":"stdout","time":255.516413564,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516444186,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.51648661,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.51661722,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516674341,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516705376,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516753343,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516770267,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516831772,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516850256,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.516909144,"data":"[40]\ttraining's binary_logloss: 0.34224\tvalid_1's binary_logloss: 0.398822\n"}
+,{"stream_name":"stdout","time":255.516927112,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.517061114,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.517213387,"data":"[LightGBM] [Warning] No further splits with positive gain, best gain: -inf\n"}
+,{"stream_name":"stdout","time":255.517249743,"data":"Early stopping, best iteration is:\n"}
+,{"stream_name":"stdout","time":255.517299103,"data":"[33]\ttraining's binary_logloss: 0.351547\tvalid_1's binary_logloss: 0.397322\n"}
+,{"stream_name":"stdout","time":256.935114743,"data":"done\n"}
+,{"stream_name":"stdout","time":260.298957349,"data":"[04:21:00] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'binary:logistic' was changed from 'error' to 'logloss'. Explicitly set eval_metric if you'd like to restore the old behavior.\n"}
+,{"stream_name":"stderr","time":266.367103617,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":266.3671476,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":266.367156062,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":268.408161224,"data":"[NbConvertApp] Writing 1266070 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":270.389766071,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":270.389841877,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":270.389852899,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":273.03290582,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":273.032953769,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.033256829,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.033520796,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.033736174,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.033979412,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.034187248,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.034423427,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.03457932,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.034728552,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.034934988,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.035108492,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.035390034,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.035587548,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.035745753,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.036005271,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.03605366,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.036229634,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.036481993,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.036606821,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.036782005,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.036991998,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.037135226,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.03730931,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.037459149,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.037637375,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.037811026,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.037972521,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":273.038237312,"data":"[NbConvertApp] Writing 641412 bytes to __results__.html\n"}
+]
