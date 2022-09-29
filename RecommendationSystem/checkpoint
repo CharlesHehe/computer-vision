@@ -1,0 +1,2 @@
+model_checkpoint_path: "fe"
+all_model_checkpoint_paths: "fe"
